@@ -33,5 +33,3 @@
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/tingyu-chen-42114b332/)
 - **Telegram**：[CanonicalMY](https://t.me/canonicalmy)
 
----
-# Ciallo～(∠・ω< )⌒☆ 
