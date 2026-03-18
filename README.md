@@ -11,8 +11,8 @@
 
 **Programming Languages:**  
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 **Tools:**  
 ![](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
