@@ -1,4 +1,4 @@
-# Ciallo～(∠・ω< )⌒☆ I'm Chen Tingyu!
+# Hi there, I'm Tingyu!
 
 
 - 3rd Year Undergraduate at University of Manchester
