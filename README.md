@@ -23,9 +23,9 @@
 ---
 
 ## 🌟 **What I’m Currently Learning**
-- **Phase Transition & Ising Model**
+- **Physics-Informed Neural Networks**
 - **Non-abelian Topological Insulator**
-- **Personal Web development** 
+- **Phase Transition & Ising Model**
 
 ---
 
