@@ -24,8 +24,8 @@
 
 ## 🌟 **What I’m Currently Learning**
 - **Physics-Informed Neural Networks**
+- **AI4HEP Agentic System**
 - **Non-abelian Topological Insulator**
-- **Phase Transition & Ising Model**
 
 ---
 
